@@ -37,7 +37,7 @@ angular.module("angular", [])
 				Photo: "man.png",
 				Quote: "Solo piensa en los gachas.",
 				Age: 60,
-				Occupation: "Noes okupa q sepa",
+				Occupation: "No es okupa q sepa",
 				Family: "Yo (por desgracia)",
 				Location: "España (La casa de una mona china)",
 				Character: "Main Protagonist",
@@ -74,13 +74,13 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Nico",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
+				Quote: "Vive leveleando",
+				Age: 30,
+				Occupation: "Hace quests",
+				Family: "Familia? no la necesita solo necesita a ogrimas",
+				Location: "Ogrimar, C/Circo de las Sombras",
 				Character: "Strong, reliable and fearless.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
